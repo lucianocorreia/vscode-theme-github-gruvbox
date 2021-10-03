@@ -1,0 +1,21 @@
+{
+    "name": "correia-github-gruvbox",
+    "displayName": "Correia Github Gruvbox",
+    "description": "Github+Gruvbox Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Github+Gruvbox Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Github+Gruvbox Theme-color-theme.json"
+            }
+        ]
+    }
+}
