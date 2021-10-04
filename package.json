@@ -22,9 +22,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Github+Gruvbox Theme",
+                "label": "Correia Github+Gruvbox Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Github+Gruvbox Theme-color-theme.json"
+            },
+            {
+                "label": "Correia Github+EverForest Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Github+Everforst Theme-color-theme.json"
             }
         ]
     }
