@@ -15,6 +15,10 @@
         "Github",
         "Gruvbox"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucianocorreia/vscode-theme-github-gruvbox"
+    },
     "contributes": {
         "themes": [
             {
