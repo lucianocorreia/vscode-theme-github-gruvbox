@@ -3,7 +3,7 @@
     "displayName": "Correia Github Gruvbox",
     "description": "Github+Gruvbox Theme",
     "publisher": "CorreiaGitHubGruvbox",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icon": "images/logo_correia.png",
     "engines": {
         "vscode": "^1.60.0"
