@@ -31,6 +31,11 @@
                 "label": "Correia Github+EverForest Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Github+Everforst Theme-color-theme.json"
+            },
+            {
+                "label": "Correia Gruvbox Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gruvbox Theme-color-theme.json"
             }
         ]
     }
